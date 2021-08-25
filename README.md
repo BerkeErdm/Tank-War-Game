@@ -1,5 +1,5 @@
 # Tank War Game
-- Game design is written in Unity programming language. It was created in 2D size.
+- Game design is written in Unity programming language. It was created in 2D.
 - Back-end design was done with C#.
 
 <img src="https://github.com/BerkeErdm/Tank-War-Game/blob/main/Tank%20War%20Game/Tank%20War%20Game%201.png" width="auto"> 
